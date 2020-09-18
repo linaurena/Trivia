@@ -40,39 +40,39 @@ directory: 1 file: 4
 
 ### HTML & CSS
 
-* [] Use of semantic HTML
-* [] Uso de selectores de CSS
-* [] Build your application respecting the design made (layout)
+* [ ] Use of semantic HTML
+* [ ] Uso de selectores de CSS
+* [ ] Build your application respecting the design made (layout)
 
 ### DOM
 
-* [] Use of DOM selectors
-* [] DOM event handling
-* [] Dynamic DOM manipulation
+* [ ] Use of DOM selectors
+* [ ] DOM event handling
+* [ ] Dynamic DOM manipulation
 
 ### JavaScript
 
-* [] String manipulation
-* [] Use of conditionals (if-else | switch | ternary operator)
-* [] Use of functions (parameters | arguments | return value)
-* [] Correct declaration of variables (const & let)
+* [ ] String manipulation
+* [ ] Use of conditionals (if-else | switch | ternary operator)
+* [ ] Use of functions (parameters | arguments | return value)
+* [ ] Correct declaration of variables (const & let)
 
 ### Code structure and style guide
 
-* [] Use of descriptive identifiers (Nomenclature | Semantics)
+* [ ] Use of descriptive identifiers (Nomenclature | Semantics)
 
 ### UX
 
-* [] Design the application thinking and understanding the user
-* [] Create prototypes to get feedback and iterate
+* [ ] Design the application thinking and understanding the user
+* [ ] Create prototypes to get feedback and iterate
 
 ## 8.Acceptance criteria
 
-* [] Welcome view - Ask name or nickname
-* [] Tow buttons to start game - Topic A & topic B
-* [] Multiple choice answer with only one true answer
-* [] Show results when the game have been finished
-* [] Play again and select topic
-* [] Timeout
-* [] Repository published in GitHub pages
+* [ ] Welcome view - Ask name or nickname
+* [ ] Tow buttons to start game - Topic A & topic B
+* [ ] Multiple choice answer with only one true answer
+* [ ] Show results when the game have been finished
+* [ ] Play again and select topic
+* [ ] Timeout
+* [ ] Repository published in GitHub pages
 
