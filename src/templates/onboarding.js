@@ -7,7 +7,7 @@ const Onboarding = () => {
         <p>
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores distinctio nulla deserunt laboriosam cupiditate eos, sit officiis obcaecati. Similique tenetur corporis laudantium mollitia expedita molestiae aut suscipit dolor labore! Minima?
         </p>
-        <a href="/register">Play</a>
+        <a href='#/register'>Play</a>
         <img src="" alt="Popcorn">`;
     return template;
 };
