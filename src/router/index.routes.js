@@ -6,7 +6,7 @@ const root = document.getElementById('root');
 const router = (route) => {
     root.innerHTML = '';
     switch(route){
-        case '#/': {
+        case '': {
             return root.appendChild(Onboarding());
         }
         case '#/register': {
